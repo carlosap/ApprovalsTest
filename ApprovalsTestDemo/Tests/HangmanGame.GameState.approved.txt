@@ -1,0 +1,10 @@
+﻿Guessed letters: IYT
+Guesses remaining: 9
+MICROSOFT
+_I______T
+
+Guessed letters: IYTS
+Guesses remaining: 9
+MICROSOFT
+_I___S__T
+
